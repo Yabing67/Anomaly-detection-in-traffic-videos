@@ -1,0 +1,10 @@
+python==3.7
+tensorflow-gpu==2.3.0
+cudatoolkit=10.1 
+cudnn=7.6.5
+theano
+keras
+pillow
+matplotlib
+h5py
+pydot
